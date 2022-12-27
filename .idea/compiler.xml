@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot-01-helloworld" target="1.8" />
+      <module name="boot-01-helloworld-2" target="1.8" />
+      <module name="boot-05-adminserver" target="1.8" />
+      <module name="boot-05-web-01" target="1.8" />
+      <module name="boot-05-web-admin" target="1.8" />
+      <module name="boot-09-features-profile" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

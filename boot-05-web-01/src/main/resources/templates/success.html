@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>成功页面</title>
+</head>
+<body>
+<h1 th:text="${msg}">我测你们码</h1>
+<h2>
+    <a href="www.baidu.com" th:href="${link}">去百度</a>
+    <br/>
+    <a href="www.baidu.com" th:href="@{/link}">去百度2</a>
+</h2>
+</body>
+</html>

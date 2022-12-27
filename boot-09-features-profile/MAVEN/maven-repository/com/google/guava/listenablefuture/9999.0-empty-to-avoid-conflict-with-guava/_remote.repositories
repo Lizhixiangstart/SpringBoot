@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 26 20:22:18 CST 2022
+listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar>alimaven=
+listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom>alimaven=

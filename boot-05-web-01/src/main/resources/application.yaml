@@ -1,0 +1,25 @@
+spring:
+  web:
+    resources:
+      static-locations: [classpath:/haha/,classpath:/META-INF/resouirces/,classpath:/public/,classpath:/resources/,classpath:/static/,classpath:/templates/]
+      add-mappings: true
+      cache:
+        period: 11000
+      contentnegotiation:
+        favor-parameter: true #开启请求参数内容协商模式(喜爱参数)
+  #  mvc:
+#    static-path-pattern:/res/**
+
+  #过滤器，用于开启表单Rest功能
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+
+    view:
+      suffix: ".html"
+
+
+server:
+  servlet:
+    context-path: /world

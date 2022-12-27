@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6922bdfa-7c27-46bd-80d8-e30f6e2e2b7d" name="Changes" comment="SpringBoot" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.3.0/mybatis-spring-boot-autoconfigure-2.3.0.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.3.0/mybatis-spring-boot-autoconfigure-2.3.0.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../MAVEN/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\MAVEN\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Hzi4caLdijhaEm9oE8EqMitL64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Program Files/idea-workspace/SpringBoot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.41954023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1b2df79d2021ad978f0175f0fb80f86d&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-admin\src\main\resources\static" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-admin\src\main\resources\templates" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-admin\src\main\resources\templates\form" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-admin\src\main\resources\templates\table" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-01\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-01\src\main\resources\templates" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-01\src\main\static" />
+      <recent name="D:\Program Files\idea-workspace\SpringBoot\boot-05-web-01\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Boot09FeaturesProfileApplication">
+    <configuration name="Junit5Test.all" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-05-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.admin.Junit5Test" />
+      <option name="METHOD_NAME" value="all" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5Test.testAssumption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-05-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.admin.Junit5Test" />
+      <option name="METHOD_NAME" value="testAssumption" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testAStackDemo.isInstantiatedWithNew" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-05-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.admin.testAStackDemo" />
+      <option name="METHOD_NAME" value="isInstantiatedWithNew" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testAStackDemo.testParameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-05-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.admin.testAStackDemo" />
+      <option name="METHOD_NAME" value="testParameterized(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testAStackDemo.testParameterized2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-05-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.admin.testAStackDemo" />
+      <option name="METHOD_NAME" value="testParameterized2(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot01Helloworld2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-01-helloworld-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.boot.Boot01Helloworld2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot05AdminserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-05-adminserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boot05adminserver.Boot05AdminserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot05Web01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-05-web-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boot05web01.Boot05Web01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot05WebAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-05-web-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.admin.Boot05WebAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot09FeaturesProfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-09-features-profile" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boot09featuresprofile.Boot09FeaturesProfileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-01-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.boot.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testAStackDemo.testParameterized2" />
+        <item itemvalue="JUnit.testAStackDemo.testParameterized" />
+        <item itemvalue="JUnit.testAStackDemo.isInstantiatedWithNew" />
+        <item itemvalue="JUnit.Junit5Test.all" />
+        <item itemvalue="JUnit.Junit5Test.testAssumption" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6922bdfa-7c27-46bd-80d8-e30f6e2e2b7d" name="Changes" comment="" />
+      <created>1669294124044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669294124044</updated>
+      <workItem from="1669294125431" duration="606000" />
+      <workItem from="1669357085488" duration="7664000" />
+      <workItem from="1669365353425" duration="1259000" />
+      <workItem from="1669366633068" duration="213000" />
+      <workItem from="1669367144975" duration="27098000" />
+      <workItem from="1669455644718" duration="11189000" />
+      <workItem from="1669475714428" duration="242000" />
+      <workItem from="1669475970620" duration="489000" />
+      <workItem from="1669477880305" duration="1688000" />
+      <workItem from="1669520955275" duration="3046000" />
+      <workItem from="1669524408897" duration="8388000" />
+      <workItem from="1669534057662" duration="10883000" />
+      <workItem from="1669560493934" duration="5444000" />
+      <workItem from="1669601471234" duration="5340000" />
+      <workItem from="1669613295720" duration="7667000" />
+      <workItem from="1669634586723" duration="15161000" />
+      <workItem from="1669716596463" duration="7922000" />
+      <workItem from="1669728447917" duration="275000" />
+      <workItem from="1669729689967" duration="979000" />
+      <workItem from="1669734770570" duration="24966000" />
+      <workItem from="1669792088142" duration="438000" />
+      <workItem from="1669792552150" duration="183000" />
+      <workItem from="1669792750881" duration="3246000" />
+      <workItem from="1669876171812" duration="1162000" />
+      <workItem from="1669878888286" duration="7433000" />
+      <workItem from="1669964765198" duration="28000" />
+      <workItem from="1670564441752" duration="13429000" />
+      <workItem from="1670584890761" duration="5431000" />
+      <workItem from="1670597047181" duration="6466000" />
+      <workItem from="1670733393238" duration="911000" />
+      <workItem from="1670804394013" duration="24000" />
+      <workItem from="1671199477672" duration="5457000" />
+      <workItem from="1671255372947" duration="599000" />
+      <workItem from="1671258436933" duration="3100000" />
+      <workItem from="1671267721529" duration="27945000" />
+      <workItem from="1671426684779" duration="30419000" />
+      <workItem from="1671513190852" duration="11093000" />
+      <workItem from="1671535140998" duration="2603000" />
+      <workItem from="1671600049102" duration="2643000" />
+      <workItem from="1671684258442" duration="1230000" />
+      <workItem from="1671685512130" duration="17058000" />
+      <workItem from="1671718121531" duration="73841000" />
+      <workItem from="1672059155845" duration="8634000" />
+      <workItem from="1672138133654" duration="4391000" />
+      <workItem from="1672143372673" duration="1032000" />
+    </task>
+    <task id="LOCAL-00001" summary="boot-01-helloworld">
+      <created>1672141192495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672141192495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SpringBoot">
+      <created>1672145080761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672145080761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boot-01-helloworld" />
+    <MESSAGE value="SpringBoot" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/boot-05-web-01/src/main/java/com/example/boot05web01/controller/RequestController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.7.6/spring-boot-autoconfigure-2.7.6.jar!/org/springframework/boot/autoconfigure/web/servlet/error/DefaultErrorViewResolver.class</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/boot-05-web-admin/src/main/java/com/atguigu/admin/exception/GlobalExceptionHandler.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>506</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>539</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>525</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.7.6/spring-boot-autoconfigure-2.7.6.jar!/org/springframework/boot/autoconfigure/web/servlet/error/BasicErrorController.class</url>
+          <line>45</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.7.6/spring-boot-autoconfigure-2.7.6.jar!/org/springframework/boot/autoconfigure/web/servlet/error/BasicErrorController.class</url>
+          <line>54</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>544</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>552</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>708</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>589</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>715</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/handler/HandlerExceptionResolverComposite.class</url>
+          <line>43</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/mvc/annotation/ResponseStatusExceptionResolver.class</url>
+          <line>35</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/mvc/annotation/ResponseStatusExceptionResolver.class</url>
+          <line>76</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/mvc/support/DefaultHandlerExceptionResolver.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>469</line>
+          <properties class="org.springframework.web.servlet.DispatcherServlet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$APPLICATION_HOME_DIR$/jbr/bin/MAVEN/maven-repository/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>505</line>
+          <properties class="org.springframework.web.servlet.DispatcherServlet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="43" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

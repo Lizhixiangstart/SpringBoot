@@ -1,0 +1,39 @@
+person:
+#  userName: "litang \n 丁真"
+#  单引号会将\n作为字符串输出   双引号\n作为换行符
+#  双引号不会转义，单引号会转义
+  boss: true
+  birth: 2019/12/9
+  age: 18
+#  interests: [篮球,足球]
+  interests:
+    - 抽烟
+    - 烫头
+    - 喝酒
+  animal: [阿猫,阿狗]
+#  score:
+#    english: 80
+#    math: 90
+  score: {english:80,math:90}
+#  salary:[999.98,999.99]
+  salary:
+    - 999.98
+    - 999.99
+  pet:
+    name: 阿狗
+    weight: 9.99
+  allPets:
+    sick:
+      - {name: 阿狗, weight: 9.99}
+      - name: 阿毛
+        weight: 8.88
+      - {name: 阿虫,weight: 7.77}
+    health:
+      - {name: 啊花,weight: 66.66}
+      - {name: 猪猪,weight: 66.66}
+  user-name: 理塘丁真
+
+#spring:
+#  banner:
+#    image:
+
